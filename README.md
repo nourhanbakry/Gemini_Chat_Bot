@@ -35,7 +35,6 @@ Gemini Chat Bot adopts a **modular clean architecture** for better code organiza
   <img src="https://github.com/user-attachments/assets/fa5fb416-34cb-4945-a301-715a60ac11ad" alt="Screenshot 3" width="150"/>
   <img src="https://github.com/user-attachments/assets/68de793e-a1e3-4b4c-9721-8260152deed0" alt="Screenshot 4" width="150"/>
   <img src="https://github.com/user-attachments/assets/cd0f7e34-4cf5-488f-84ae-0ae147e0f801" alt="Screenshot 5" width="150"/>
-  <img src="https://github.com/user-attachments/assets/98b41c55-8e72-481a-b371-2e0635cd97ed" alt="Screenshot 6" width="150"/>
   <img src="https://github.com/user-attachments/assets/06a6092f-35f1-4dbe-8f2b-1257746999ec" alt="Screenshot 7" width="150"/>
 </p>
   
